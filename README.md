@@ -12,7 +12,7 @@ Learning how to build a simple API with Node.js, Express.js, and PostgreSQL.
 
 	* Rename `sample.env` file to `.env`.
 
-	* Inside the `.env` file, replace `db_username`, `db_password`, `host`, `port`, and `db_name` variables in `PG_URL` path with your information.
+	* Inside the `.env` file, replace `db_username`, `db_password`, `host`, `port`, and `db_name` variables in `PG_URL` path with your database information.
 
 ---
 
@@ -34,7 +34,7 @@ The local server will reload if you make edits.
 
 * Update the `ENV_TYPE` value in `.env` to any value except `dev`.
 
-* Compile code using Babel, run `build`.
+* Compile code using Babel, run `npm run build`.
 
 * Start the app in production mode, run: `npm run start`.
 
