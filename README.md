@@ -12,7 +12,7 @@ Learning how to build a simple API with Node.js, Express.js, and PostgreSQL.
 
 	* Rename `sample.env` file to `.env`.
 
-	* Replace `db_username`, `db_password`, `host`, `port`, and `db_name` variables in `PG_URL` path.
+	* Inside the `.env` file, replace `db_username`, `db_password`, `host`, `port`, and `db_name` variables in `PG_URL` path with your information.
 
 ---
 
