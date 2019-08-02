@@ -40,6 +40,6 @@ The local server will reload if you make edits.
 
 ---
 
-## Thanks
+## Acknowledgements
 
 Many thanks to [this tutorial](https://www.codementor.io/olawalealadeusi896/building-a-simple-api-with-nodejs-expressjs-and-postgresql-db-masuu56t7) for the first steps.
